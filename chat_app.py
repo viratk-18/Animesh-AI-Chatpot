@@ -69,7 +69,8 @@ if st.sidebar.button("🔄 Reset Conversation"):
     st.session_state.messages = []
     st.experimental_rerun()
 
-st.markdown('**Degin And Developed By: Animesh Singh Tomar**')
+st.markdown('**Design And Developed By: Animesh Singh Tomar**')
+
 
 
 
